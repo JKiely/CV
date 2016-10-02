@@ -15,11 +15,11 @@
 ## Experience
 
 ### Research Assistant(2014-2015)
-- Using Stata, Excel, and just a little R to clean data for some papers looking at the relationship between income and voter turnout.                
+- Using Stata, Excel, and just a little R to clean data for some papers looking at the relationship between income and voter turnout.
 - Writing python code to scrape drug reviews and prices off of forums relating the the silk road and agora, as well as advising on code to scrape the sites themselves. Yes, this really was for a grad student and not for myself.
 
 ### Barman/Manager (2008-2010, 2011-2012)
-- Nothing to do with coding, but I was involved with scheduling, in charge of training (and sometimes hiring) new staff, and a key holder for the building and the safe.               
+- Nothing to do with coding, but I was involved with scheduling, in charge of training (and sometimes hiring) new staff, and a key holder for the building and the safe.
 
 
 ## Education

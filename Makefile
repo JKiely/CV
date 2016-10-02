@@ -1,4 +1,4 @@
-.PHONY: all travis html readme pdf clean merge
+.PHONY: all travis html readme pdf clean
 
 all: html readme pdf
 
