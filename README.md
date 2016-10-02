@@ -1,30 +1,16 @@
 # John Kiely
-
-Currently at the Recurse Center, learning Haskell, Go, Juggling, and whatever the people sitting next to me are happy to explain!
+<sub>jjkiely@gmail.com • jkiely.co.uk • github.com/jkiely </sub>
 
 ## Code Examples
 
-### Spell Check
-- https://github.com/JKiely/spell-checker
-- A spellchecker  with a web interface
-- Written in Python with Javascript on the front end.
-
 ### Noughts and Crosses
 - https://github.com/JKiely/noughts-crosses
-- A simple game of tic-tac-toe
+- A command line tic-tac-toe game created using Python, and tested using Pytest.
 
-
-## Skills
-
-### Python
-- Flask
-- Django
-- Testing with Pytest, unittest, etc
-
-### Ruby
-- Sinatra
-- Rails
-- Rspec
+### Recurse Center API Wrapper
+- https://github.com/JKiely/RC-API
+- Handles the oauth process and retrieving data.
+- I started this project to learn Go and a bit more about Oauth2.
 
 ## Experience
 
@@ -41,15 +27,9 @@ Currently at the Recurse Center, learning Haskell, Go, Juggling, and whatever th
 ### London School of Economics (2012-2016)
 - BSc Socology (Hons)
 - ASIEC Society (2012-2013): I wound up teaching English in the Shandong province of China during the summer of 2013.
-- Debate Society (2012-2013): I broke (made it to the final round) in a couple of tournaments but I generally kinda sucked at it.
+- Debate Society (2012-2013): I broke (made it to the final round) in two tournaments, but I generally kinda sucked at it.
 - LSE Groups (2014): An internal event in which teams have to prepare an academic paper with original research in two weeks and present it at a conference on the final day. We placed second.
 
-### Nordmøre Folkehøgskule (2010-2011)
-- Studied Theatre.
-- Performed in a variety of works in both English and Norwegian.
-- Sang in a shanty choir.
-
-
-## About
-
-I'm a self taught programmer based in Europe, and looking for opportunities to start a career as a developer. I'm especially interested in backend web-development.
+### Makers Academy
+- A twelve week Bootcamp that focuses on full stack web development.
+-
