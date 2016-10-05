@@ -1,25 +1,29 @@
 # John Kiely
-<sub>jjkiely@gmail.com • jkiely.co.uk • github.com/jkiely </sub>
+<sub>jjkiely@gmail.com • 07983622667 • jkiely.co.uk • github.com/jkiely </sub>
 
-## Code Examples
+I started coding almost by accident, as just another mooc on my list of things that sounded interesting to learn. But I soon found it changing, for the better, how I looked at the world and approached problems. It's the only thing I could think of doing with my life now, because I really believe that by pursuing this I'm giving myself the ability to do almost anything. 
 
-### Noughts and Crosses
+## Skills
+
+### Python
+The first language I learnt and the one I've spent the most time with over the past few years. I started with Edx's 6.00.1x and I've since used it to try web development, data exploration, command line apps, and several non-python specific moocs.
+#### Examples:
+##### Noughts and Crosses
 - https://github.com/JKiely/noughts-crosses
 - A command line tic-tac-toe game created using Python, and tested using Pytest.
 
-### Sudoku Solver
-- https://github.com/JKiely/Sudo-Ku
-_ Brute Force Sukoku solver written in Haskell.
-- Uses stack, vectors, and tests with hspec.
+##### Spell-checker
+- https://github.com/JKiely/spell-checker
+- Started out life as a me procrastinating after reading a Peter Norvig post but is in the process of growing into an online spell-checker using flask (a WIP).
+- It uses /[uni|bi|tri]gram/ frequencies from a given corpus, and Damerau–Levenshtein distance to suggest corrections to words it doesn't recognize.
 
-## Experience
-
-### Research Assistant(2014-2015)
-- Cleaning data for papers looking at the relationship between income and voter turnout.
-- Writing python code to scrape drug reviews and prices off of forums relating the the silk road and agora, as well as advising on code to scrape the sites themselves. Yes, this really was for a grad student and not for myself.
-
-### Barman/Manager (2008-2010, 2011-2012)
-- Nothing to do with coding, but I was involved with scheduling, training, and hiring new staff, and a key holder for the building and the safe.
+### Web Development
+I studied web development for 12 weeks at the Makers Academy bootcamp. In that time I became comfortable with Rails, and familiar with Node. But since I have spent most of my time with Flask.
+#### Examples
+##### Totes-random
+- https://github.com/JKiely/Totes-Random
+- I worked with two other people, most of my time went into the back end, but we paired on all parts.
+- A 'satirical random number generator' which uses the entropy of people telling twitter how random they are to seed a Mersenne twister.
 
 ## Education
 
@@ -38,3 +42,12 @@ _ Brute Force Sukoku solver written in Haskell.
 - http://www.makersacademy.com
 - A twelve week Bootcamp that focuses on full stack web development.
 - Learned technologies including Rails, Node, and Sinatra.
+
+## Experience
+
+### Research Assistant(2014-2015)
+- Cleaning data for papers looking at the relationship between income and voter turnout.
+- Writing python code to scrape drug reviews and prices off of forums relating the the silk road and agora, as well as advising on code to scrape the sites themselves. Yes, this really was for a grad student and not for myself.
+
+### Barman/Manager (2008-2010, 2011-2012)
+- Nothing to do with coding, but I was involved with scheduling, training, and hiring new staff, and a key holder for the building and the safe.
