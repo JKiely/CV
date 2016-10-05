@@ -7,10 +7,10 @@
 - https://github.com/JKiely/noughts-crosses
 - A command line tic-tac-toe game created using Python, and tested using Pytest.
 
-### Recurse Center API Wrapper
-- https://github.com/JKiely/RC-API
-- Handles the oauth process and retrieving data.
-- I started this project to learn a bit more about Go and Oauth2.
+### Sudoku Solver
+- https://github.com/JKiely/Sudo-Ku
+_ Brute Force Sukoku solver written in Haskell.
+- Uses stack, vectors, and tests with hspec.
 
 ## Experience
 
