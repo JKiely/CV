@@ -1,8 +1,6 @@
 # John Kiely
 <sub>jjkiely@gmail.com • 07983622667 • jkiely.co.uk • github.com/jkiely </sub>
 
-I started coding almost by accident, as just another mooc on my list of things that sounded interesting to learn. But I soon found it changing, for the better, how I looked at the world and approached problems. It's the only thing I could think of doing with my life now, because I really believe that by pursuing this I'm giving myself the ability to do almost anything. 
-
 ## Skills
 
 ### Python
