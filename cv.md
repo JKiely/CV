@@ -5,7 +5,9 @@
 
 ### Python
 The first language I learnt and the one I've spent the most time with over the past few years. I started with Edx's 6.00.1x and I've since used it to try web development, data exploration, command line apps, and several non-python specific moocs.
+
 #### Examples:
+
 ##### Noughts and Crosses
 - https://github.com/JKiely/noughts-crosses
 - A command line tic-tac-toe game created using Python, and tested using Pytest.
@@ -17,7 +19,9 @@ The first language I learnt and the one I've spent the most time with over the p
 
 ### Web Development
 I studied web development for 12 weeks at the Makers Academy bootcamp. In that time I became comfortable with Rails, and familiar with Node. But since I have spent most of my time with Flask.
+
 #### Examples
+
 ##### Totes-random
 - https://github.com/JKiely/Totes-Random
 - I worked with two other people, most of my time went into the back end, but we paired on all parts.
