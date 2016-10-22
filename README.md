@@ -14,9 +14,8 @@ Skills
 ##### Spellchecker
 
 -   https://github.com/JKiely/spellchecker
--   Started out life as a me procrastinating after reading a Peter
-    Norvig post but is in the process of growing into an online
-    spell-checker using flask.
+-   Is currently in the process of growing into an online spell-checker
+    using flask.
 -   It uses /(uni|bi|tri)gram/ frequencies from a given corpus, and
     Damerau–Levenshtein distance to suggest corrections to words it
     doesn't recognize.
@@ -38,7 +37,7 @@ Skills
 -   I also made a twitter bot for this site:
     https://github.com/JKiely/Totes-Random-Bot
 
-#### RC-API Wrapper (Golang)
+##### RC-API Wrapper (Golang)
 
 -   https://github.com/JKiely/RC-API
 -   A wrapper for the Recurse Center internal API.
