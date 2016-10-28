@@ -7,9 +7,6 @@
 - I took qualitative data collected by a post-doc and regularized certain fields to make it ready for statistical analysis. I managed to do the bulk of this with a few scripts and the long tail with individual find/replaces.
 - I wrote a script to scrape drug reviews off of forums relating the the Silk Road and Agora, with some rudimentary text analysis to extract drug names, prices, and names of some prolific dealers.
 
-#### Barman/Bar Manager at Dulwich Sports Club (2008-2010, 2011-2012)
-- I was involved with scheduling, training, and hiring new staff.
-
 ## Projects
 
 #### Spellchecker (Python)

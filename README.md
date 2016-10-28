@@ -16,10 +16,6 @@ Experience
     the Silk Road and Agora, with some rudimentary text analysis to
     extract drug names, prices, and names of some prolific dealers.
 
-#### Barman/Bar Manager at Dulwich Sports Club (2008-2010, 2011-2012)
-
--   I was involved with scheduling, training, and hiring new staff.
-
 Projects
 --------
 
