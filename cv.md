@@ -35,7 +35,10 @@
 
 #### Recurse Center (2016)
 - https://www.recurse.com
-- I spent my time there working on Haskell, Go and expanding my knowledge of Python.
+- I used my time there to expand my horizons as a developer and explore many areas of programming.
+- I build all of the projects above, as well as several others.
+- I read parts of *Software Foundations*, *Learn you a Haskell*, *High Performance Python*, *Programming Erlang*, and *The Pragmatic Programmer*. As well as several article and tutorials on the implementation details of Python, web servers, and other technologies I use frequently.
+- I also had the chance to pair with experienced Go, Haskell, and C developers on projects exploring those languages.
 
 #### BSc Socology (Hons) at The London School of Economics (2012-2016)
 - ASIEC Society (2012-2013): Teaching English in China during the summer of 2013.
