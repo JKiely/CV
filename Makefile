@@ -2,8 +2,6 @@
 
 all: html readme pdf
 
-travis: html readme pdf
-
 html: cv.md templates/header.css
 	pandoc cv.md -s -H templates/header.css -B templates/link_to_pdf.html -o index.html
 
@@ -26,3 +24,6 @@ else
 	git merge master
 	git checkout master
 endif
+
+test:
+	./tests/tests.sh
