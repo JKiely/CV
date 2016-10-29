@@ -16,7 +16,6 @@ clean:
 	rm readme.md
 	rm j_kiely_cv.pdf
 
-
 test:
 	./tests/tests.sh
 
