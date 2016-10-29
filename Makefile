@@ -3,7 +3,7 @@
 all: html readme pdf
 
 html: cv.md templates/header.css
-	pandoc cv.md -s -H templates/header.css -B templates/link_to_pdf.html -o index.html
+	pandoc cv.md -s -H templates/header.css -B templates/header.html -o index.html
 
 readme: cv.md templates/header.md
 	pandoc cv.md -B templates/header.md -o readme.md

@@ -14,8 +14,10 @@ Experience
     individual find/replaces.
 -   I wrote a script to scrape drug reviews off of forums relating the
     the Silk Road and Agora, with some rudimentary text analysis to
-    extract drug names, prices, and names of some prolific dealers. \#\#
-    Projects
+    extract drug names, prices, and names of some prolific dealers.
+
+Projects
+--------
 
 #### Spellchecker (Python)
 
