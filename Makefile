@@ -14,7 +14,11 @@ pdf: cv.md templates/header.tex
 clean:
 	rm index.html
 	rm readme.md
-	rm *.pdf
+	rm j_kiely_cv.pdf
+
+
+test:
+	./tests/tests.sh
 
 merge:
 ifneq ($(shell git rev-parse --abbrev-ref HEAD), master)
@@ -24,6 +28,3 @@ else
 	git merge master
 	git checkout master
 endif
-
-test:
-	./tests/tests.sh

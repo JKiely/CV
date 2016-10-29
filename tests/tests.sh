@@ -2,3 +2,5 @@ if [[ $(mdls -name kMDItemNumberOfPages j_kiely_cv.pdf) != "kMDItemNumberOfPages
     then
         echo "The pdf is too long"
 fi
+
+echo $(python3 ./tests/headings.py)
